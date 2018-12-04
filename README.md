@@ -4,7 +4,7 @@ This is the example of sendimg email from server using nodejs
 
 ## Step by Step Working Example
 
-###Requirements
+### Requirements
 * Node js
 * nodemailer
 
