@@ -1,0 +1,15 @@
+{
+  "name": "com.exicube.smsandemail",
+  "version": "1.0.0",
+  "description": "Simple and User friendly app for sending SMS and Email to your loved once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemailer": "^4.7.0"
+  }
+}
