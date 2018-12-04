@@ -1,5 +1,5 @@
 # node-email-server
-This is the example of sendimg email from server using nodejs
+This is the example of sendimg email from server using node js
 
 
 ## Step by Step Working Example
@@ -52,6 +52,7 @@ To run the above tested and ready code please clone the repository and change fo
 
 ```
 npm install 
+node index.js
 
 ```
 
